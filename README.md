@@ -4,6 +4,8 @@
 
 This project provides an API for integrating sales orders with the Tally accounting system. It enables seamless synchronization between your sales order management system and Tally by allowing you to fetch and insert sales orders.
 
+[Postman](https://documenter.getpostman.com/view/8809593/2sAXjJ6D7E "Visit Postman documentation")
+
 ## API Endpoints
 
 ### 1. Get Sales Orders
